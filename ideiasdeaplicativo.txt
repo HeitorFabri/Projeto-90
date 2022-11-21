@@ -1,0 +1,13 @@
+Ideias de aplicativo
+
+*Organização; => Anotações
+*Controle do tempo; => 	Rotina (Lista de à fazeres)
+*Datas; => Calendário (Agenda)
+*Culinária; => Receitas
+*Notícias sobre jogos; => Junção de informações
+*Previsão do tempo; => Aplicativo(API)
+*Controle de gastos; => Aplicativo (Planilha)
+*Empreendimento. => Aplicativo(Cotação em tempo real, API) <= Moedas valorizadas ou desvalorizadas em relação ao Real brasileiro em tempo real;
+							      Dicas de produtos para empreender;
+							      Marketing digital;
+							      
